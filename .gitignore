@@ -5,6 +5,10 @@
 !README.md
 !.gitignore
 
+# Allow README showcase images
+!images/
+!images/*.png
+
 # Allow assignment folders (and subdirectories within them)
 !Assignment_*/
 !Assignment_*/_*/
