@@ -1,6 +1,6 @@
-# SHPC4001: Scientific High Performance Computing
+# Scientific High Performance Computing
 
-This repository contains the source code for assignments and projects completed as part of the SHPC4001 course. The project focuses on implementing efficient numerical methods and physical simulations in C and Python.
+This repository contains the source code for assignments and projects completed in my Master's. The project focuses on implementing efficient numerical methods and physical simulations in C and Python.
 
 ## Contents
 
@@ -16,10 +16,3 @@ This repository contains the source code for assignments and projects completed 
 - **Language**: C (Simulation Logic), Python (Data Analysis and Plotting)
 - **Tools**: GCC, MPI, OpenMP, Gnuplot, Matplotlib
 - **Concepts**: Numerical Stability, Convergence Analysis, High-Performance Computing Primitives
-
-## Usage
-
-Each assignment directory contains source files and its own `README.md`. To run a simulation:
-1. Navigate to the assignment's directory (e.g., `cd Assignment_1`).
-2. Compile the C source files (e.g., `gcc -o simulation bouncing.c -lm`).
-3. Run the analysis scripts (e.g., `python3 plot_data.py`).
